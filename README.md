@@ -241,5 +241,5 @@ public class MainActivity extends AppCompatActivity {
 Thus a Simple Android Application to create a calculator using Android Studio was developed and executed successfully.
 
 
-## Result:
+
 
